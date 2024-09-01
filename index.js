@@ -13,3 +13,7 @@ function myWork2(){
     console.log("new feature added again"); 
 }
 
+function featB(){
+    console.log("Testing branch");
+    
+}

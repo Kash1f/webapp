@@ -17,3 +17,7 @@ function featB(){
     console.log("Testing branch");
     
 }
+
+function featB() {
+    console.log("Another test branch");
+}

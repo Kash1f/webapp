@@ -32,3 +32,14 @@ function feat2() {
     console.log("featc2 featc2 featc3");
     
 }
+
+//Hoisting
+
+console.log(a);
+
+var a = 10;
+
+console.log(b);
+
+let b = 20;
+

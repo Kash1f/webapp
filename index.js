@@ -21,3 +21,11 @@ function featB(){
 function featB() {
     console.log("Another test branch");
 }
+
+function featC() {
+    console.log("Another test branch featC");
+}
+
+function feat2() {
+    console.log("Another test branch featc2");
+}
